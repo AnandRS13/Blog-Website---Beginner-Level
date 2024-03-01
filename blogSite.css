@@ -23,6 +23,10 @@ nav ul li {
     margin-right: 20px;
 }
 
+nav ul li:last-child {
+    margin-left: auto;
+}
+
 nav ul li a {
     color: #fff;
     text-decoration: none;
